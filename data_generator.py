@@ -22,7 +22,7 @@ extended_timestamps = [dt.strftime('%Y-%m-%d %H:%M:%S') for dt in
        timedelta(minutes=1))]
 
 
-with open('test.csv', 'w') as f:
+with open('generated_data.csv', 'w') as f:
     write = csv.writer(f)
       
     write.writerow(attributes)
