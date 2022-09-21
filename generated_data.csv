@@ -1,0 +1,2 @@
+tower,date,time,tower_a,tower_a_ue_count,tower_a_utilization,tower_a_signaling_load,tower_b,tower_b_ue_count,tower_b_utilization,tower_b_signaling_load,tower_c,tower_c_ue_count,tower_c_utilization,tower_c_signaling_load
+ramnagar,2022-09-21,22:33:43,ramnagar_a,265,12,22,ramnagar_b,161,97,36,ramnagar_c,235,42,23
