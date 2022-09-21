@@ -25,4 +25,5 @@ dts = [dt.strftime('%Y-%m-%d %H:%M:%S') for dt in
        datetime_range(datetime(2022, 9, 21, 0), datetime(2022, 9, 21+2, 00), 
        timedelta(minutes=15))]
 
-print(dts)
+for d in dts:
+    print(d.split()[0] + ", " + d.split()[1])
