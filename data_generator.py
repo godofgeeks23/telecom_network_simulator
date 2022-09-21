@@ -1,6 +1,6 @@
 import csv
-from datetime import date, datetime, timedelta
-# from datetime import datetime
+# from datetime import date, datetime, timedelta
+import datetime
 from random import randrange
 
 attributes = ["tower", "date", "time", 
@@ -9,11 +9,16 @@ attributes = ["tower", "date", "time",
 "tower_c", "tower_c_ue_count", "tower_c_utilization", "tower_c_signaling_load"
 ]
 
-start_time = datetime.strptime("00:00:00", "%H:%M:%S")
-end_time = datetime.strptime("23:59:00", "%H:%M:%S")
-time_gap = 15
-time_stamps = [(start_time + timedelta(hours=time_gap*i/60)).strftime("%H:%M:%S")
-       for i in range(int((end_time-start_time).total_seconds() / 60.0 / time_gap))]
+start_time = "00:00:00"
+end_time = "23:59:00"
+time_gap = datetime.timedelta(minutes=15)
+start_time = datetime.datetime.strptime( start_time, '%H:%M:%S' )
+end_time = datetime.datetime.strptime( end_time, '%H:%M:%S' )
+t = start_time
+time_stamps = []
+while t <= end_time :
+     time_stamps.append(datetime.datetime.strftime( t, '%H:%M:%S'))
+     t += time_gap
 
 with open('generated_data.csv', 'w') as f:
     write = csv.writer(f)
@@ -23,10 +28,9 @@ with open('generated_data.csv', 'w') as f:
     for timestamp in time_stamps:
 
         tower_name = "ramnagar"
-        current_date = date.today()
 
-        # now = datetime.now()
-        # current_time = now.strftime("%H:%M:%S")
+        current_date = datetime.date.today()
+
         current_time = timestamp
 
         tower_a = tower_name + "_a"
@@ -63,5 +67,3 @@ with open('generated_data.csv', 'w') as f:
         data_row.append(tower_c_sig_load)
         
         write.writerow(data_row)
-
-
