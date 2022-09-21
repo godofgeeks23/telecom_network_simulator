@@ -1,7 +1,7 @@
 import csv
-# from datetime import date, datetime, timedelta
 import datetime
 from random import randrange
+
 
 attributes = ["tower", "date", "time", 
 "tower_a", "tower_a_ue_count", "tower_a_utilization", "tower_a_signaling_load",
