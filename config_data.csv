@@ -1,0 +1,445 @@
+tower,tower_a,tx_power_a,electrical_tilt_a,cell_onoff_a,tower_b,tx_power_b,electrical_tilt_b,cell_onoff_b,tower_c,tx_power_c,electrical_tilt_c,cell_onoff_c,lat,long,site_mode,azimuth_a,azimuth_b,azimuth_c
+Abupur,Abupur_a,36,5,on,Abupur_b,25,3,on,Abupur_c,69,9,on,53,160,coverage,240,300,30
+Abupur,Abupur_a,64,0,on,Abupur_b,55,7,on,Abupur_c,68,2,on,53,160,capacity,30,270,150
+Achheja,Achheja_a,37,0,on,Achheja_b,41,4,on,Achheja_c,57,4,on,237,123,coverage,150,300,210
+Achheja,Achheja_a,20,3,on,Achheja_b,46,6,on,Achheja_c,67,1,on,237,123,capacity,180,240,180
+Adhyatmic Nagar,Adhyatmic Nagar_a,33,1,on,Adhyatmic Nagar_b,60,7,on,Adhyatmic Nagar_c,68,2,on,44,18,coverage,60,330,240
+Adhyatmic Nagar,Adhyatmic Nagar_a,42,5,on,Adhyatmic Nagar_b,68,8,on,Adhyatmic Nagar_c,53,5,on,44,18,capacity,30,30,180
+Alamnagar,Alamnagar_a,69,4,on,Alamnagar_b,53,5,on,Alamnagar_c,41,6,on,200,203,coverage,210,30,120
+Alamnagar,Alamnagar_a,33,8,on,Alamnagar_b,52,5,on,Alamnagar_c,50,4,on,200,203,capacity,0,60,150
+Alipur,Alipur_a,54,9,on,Alipur_b,25,8,on,Alipur_c,35,1,on,73,176,coverage,60,210,0
+Alipur,Alipur_a,40,9,on,Alipur_b,66,2,on,Alipur_c,42,3,on,73,176,capacity,0,240,270
+Alttc,Alttc_a,40,3,on,Alttc_b,66,2,on,Alttc_c,25,5,on,64,139,coverage,240,210,30
+Alttc,Alttc_a,57,1,on,Alttc_b,52,0,on,Alttc_c,64,2,on,64,139,capacity,180,300,150
+Anwarpur,Anwarpur_a,60,7,on,Anwarpur_b,44,1,on,Anwarpur_c,40,8,on,90,86,coverage,30,300,60
+Anwarpur,Anwarpur_a,37,6,on,Anwarpur_b,28,5,on,Anwarpur_c,42,9,on,90,86,capacity,300,90,210
+Arya Nagar,Arya Nagar_a,67,4,on,Arya Nagar_b,59,8,on,Arya Nagar_c,45,8,on,23,164,coverage,210,300,240
+Arya Nagar,Arya Nagar_a,59,3,on,Arya Nagar_b,41,1,on,Arya Nagar_c,60,2,on,23,164,capacity,300,180,210
+Asaura,Asaura_a,60,2,on,Asaura_b,58,9,on,Asaura_c,52,6,on,147,172,coverage,120,300,240
+Asaura,Asaura_a,61,0,on,Asaura_b,30,1,on,Asaura_c,57,4,on,147,172,capacity,0,330,210
+Ashok Nagar,Ashok Nagar_a,44,8,on,Ashok Nagar_b,68,8,on,Ashok Nagar_c,61,2,on,220,14,coverage,300,300,30
+Ashok Nagar,Ashok Nagar_a,29,1,on,Ashok Nagar_b,38,7,on,Ashok Nagar_c,63,3,on,220,14,capacity,60,150,150
+Athsaini,Athsaini_a,26,6,on,Athsaini_b,31,6,on,Athsaini_c,40,0,on,27,203,coverage,240,300,30
+Athsaini,Athsaini_a,44,3,on,Athsaini_b,68,9,on,Athsaini_c,34,9,on,27,203,capacity,0,60,150
+Atola,Atola_a,28,1,on,Atola_b,38,5,on,Atola_c,44,5,on,95,183,coverage,210,0,300
+Atola,Atola_a,23,3,on,Atola_b,35,3,on,Atola_c,46,8,on,95,183,capacity,120,180,330
+Ator Nagla,Ator Nagla_a,44,2,on,Ator Nagla_b,50,0,on,Ator Nagla_c,57,4,on,73,165,coverage,270,270,180
+Ator Nagla,Ator Nagla_a,35,4,on,Ator Nagla_b,48,6,on,Ator Nagla_c,30,2,on,73,165,capacity,60,0,210
+Atrauli,Atrauli_a,65,1,on,Atrauli_b,24,5,on,Atrauli_c,55,2,on,19,9,coverage,180,270,240
+Atrauli,Atrauli_a,43,0,on,Atrauli_b,40,2,on,Atrauli_c,50,4,on,19,9,capacity,0,150,300
+Aurangabad Ristal,Aurangabad Ristal_a,50,5,on,Aurangabad Ristal_b,21,9,on,Aurangabad Ristal_c,44,3,on,80,155,coverage,60,120,150
+Aurangabad Ristal,Aurangabad Ristal_a,67,1,on,Aurangabad Ristal_b,34,8,on,Aurangabad Ristal_c,36,3,on,80,155,capacity,150,0,240
+B.B.nagar,B.B.nagar_a,69,9,on,B.B.nagar_b,30,5,on,B.B.nagar_c,35,1,on,110,223,coverage,60,210,90
+B.B.nagar,B.B.nagar_a,34,6,on,B.B.nagar_b,23,5,on,B.B.nagar_c,20,5,on,110,223,capacity,240,60,120
+Babugarh,Babugarh_a,50,0,on,Babugarh_b,63,2,on,Babugarh_c,66,0,on,156,112,coverage,30,30,120
+Babugarh,Babugarh_a,32,1,on,Babugarh_b,36,1,on,Babugarh_c,68,8,on,156,112,capacity,210,0,240
+Bachhlota,Bachhlota_a,32,6,on,Bachhlota_b,39,9,on,Bachhlota_c,36,2,on,111,234,coverage,270,330,60
+Bachhlota,Bachhlota_a,63,3,on,Bachhlota_b,49,1,on,Bachhlota_c,29,6,on,111,234,capacity,150,180,270
+Badshahnpur Siroli,Badshahnpur Siroli_a,31,5,on,Badshahnpur Siroli_b,27,7,on,Badshahnpur Siroli_c,48,9,on,122,131,coverage,30,240,270
+Badshahnpur Siroli,Badshahnpur Siroli_a,29,8,on,Badshahnpur Siroli_b,20,0,on,Badshahnpur Siroli_c,44,0,on,122,131,capacity,270,120,60
+Bagarpur,Bagarpur_a,67,4,on,Bagarpur_b,31,9,on,Bagarpur_c,35,2,on,194,222,coverage,240,120,270
+Bagarpur,Bagarpur_a,54,6,on,Bagarpur_b,29,8,on,Bagarpur_c,61,5,on,194,222,capacity,150,150,300
+Bahadurgarh,Bahadurgarh_a,36,6,on,Bahadurgarh_b,53,8,on,Bahadurgarh_c,58,3,on,5,11,coverage,30,180,30
+Bahadurgarh,Bahadurgarh_a,54,7,on,Bahadurgarh_b,22,8,on,Bahadurgarh_c,38,5,on,5,11,capacity,270,240,270
+Bajhera Kalan,Bajhera Kalan_a,24,5,on,Bajhera Kalan_b,21,8,on,Bajhera Kalan_c,67,6,on,164,56,coverage,330,0,270
+Bajhera Kalan,Bajhera Kalan_a,63,3,on,Bajhera Kalan_b,66,5,on,Bajhera Kalan_c,40,6,on,164,56,capacity,120,270,60
+Bajhera Khurd,Bajhera Khurd_a,66,4,on,Bajhera Khurd_b,45,9,on,Bajhera Khurd_c,56,4,on,230,205,coverage,120,60,210
+Bajhera Khurd,Bajhera Khurd_a,42,7,on,Bajhera Khurd_b,44,3,on,Bajhera Khurd_c,46,5,on,230,205,capacity,270,120,30
+Bankhanda,Bankhanda_a,62,7,on,Bankhanda_b,62,7,on,Bankhanda_c,56,9,on,51,173,coverage,180,150,90
+Bankhanda,Bankhanda_a,57,4,on,Bankhanda_b,36,2,on,Bankhanda_c,25,6,on,51,173,capacity,150,30,330
+Basantpur Sainthli,Basantpur Sainthli_a,40,1,on,Basantpur Sainthli_b,38,8,on,Basantpur Sainthli_c,59,1,on,82,115,coverage,120,270,240
+Basantpur Sainthli,Basantpur Sainthli_a,42,7,on,Basantpur Sainthli_b,23,2,on,Basantpur Sainthli_c,30,1,on,82,115,capacity,90,30,240
+Baxur,Baxur_a,52,8,on,Baxur_b,68,7,on,Baxur_c,62,0,on,6,43,coverage,270,270,60
+Baxur,Baxur_a,51,6,on,Baxur_b,20,0,on,Baxur_c,64,0,on,6,43,capacity,90,270,120
+Begmabad,Begmabad_a,23,0,on,Begmabad_b,24,7,on,Begmabad_c,20,2,on,22,78,coverage,270,120,240
+Begmabad,Begmabad_a,23,7,on,Begmabad_b,31,4,on,Begmabad_c,29,9,on,22,78,capacity,0,300,330
+Behta Hazipur,Behta Hazipur_a,24,2,on,Behta Hazipur_b,39,8,on,Behta Hazipur_c,46,8,on,36,111,coverage,300,0,270
+Behta Hazipur,Behta Hazipur_a,60,7,on,Behta Hazipur_b,33,7,on,Behta Hazipur_c,46,1,on,36,111,capacity,210,270,60
+Bhadauli,Bhadauli_a,30,1,on,Bhadauli_b,44,8,on,Bhadauli_c,47,4,on,40,166,coverage,30,330,330
+Bhadauli,Bhadauli_a,43,2,on,Bhadauli_b,69,7,on,Bhadauli_c,20,8,on,40,166,capacity,150,330,270
+Bhadoli,Bhadoli_a,37,5,on,Bhadoli_b,44,1,on,Bhadoli_c,39,3,on,69,208,coverage,300,120,270
+Bhadoli,Bhadoli_a,32,1,on,Bhadoli_b,68,9,on,Bhadoli_c,36,4,on,69,208,capacity,270,60,210
+Bhadsiyana,Bhadsiyana_a,60,9,on,Bhadsiyana_b,34,4,on,Bhadsiyana_c,61,7,on,55,146,coverage,30,300,330
+Bhadsiyana,Bhadsiyana_a,36,6,on,Bhadsiyana_b,44,4,on,Bhadsiyana_c,33,6,on,55,146,capacity,300,90,0
+Bhaina Dholpur,Bhaina Dholpur_a,27,6,on,Bhaina Dholpur_b,22,2,on,Bhaina Dholpur_c,41,3,on,40,202,coverage,150,330,150
+Bhaina Dholpur,Bhaina Dholpur_a,31,6,on,Bhaina Dholpur_b,41,9,on,Bhaina Dholpur_c,38,5,on,40,202,capacity,150,180,0
+Bharat Nagar,Bharat Nagar_a,38,2,on,Bharat Nagar_b,35,0,on,Bharat Nagar_c,63,2,on,38,209,coverage,270,210,240
+Bharat Nagar,Bharat Nagar_a,26,3,on,Bharat Nagar_b,30,8,on,Bharat Nagar_c,29,3,on,38,209,capacity,180,90,180
+Bharna,Bharna_a,48,4,on,Bharna_b,61,7,on,Bharna_c,26,3,on,71,123,coverage,270,90,120
+Bharna,Bharna_a,61,7,on,Bharna_b,66,1,on,Bharna_c,41,8,on,71,123,capacity,120,60,270
+Bhatiyana,Bhatiyana_a,36,6,on,Bhatiyana_b,61,3,on,Bhatiyana_c,52,1,on,212,16,coverage,0,240,300
+Bhatiyana,Bhatiyana_a,54,9,on,Bhatiyana_b,57,7,on,Bhatiyana_c,46,7,on,212,16,capacity,30,120,0
+Bhikanpur,Bhikanpur_a,27,8,on,Bhikanpur_b,24,2,on,Bhikanpur_c,40,5,on,195,191,coverage,210,300,270
+Bhikanpur,Bhikanpur_a,28,7,on,Bhikanpur_b,59,9,on,Bhikanpur_c,25,9,on,195,191,capacity,30,300,270
+Bhojpur,Bhojpur_a,50,1,on,Bhojpur_b,65,0,on,Bhojpur_c,69,0,on,36,55,coverage,90,210,240
+Bhojpur,Bhojpur_a,60,2,on,Bhojpur_b,49,4,on,Bhojpur_c,36,5,on,36,55,capacity,180,30,210
+Bhup Kheri,Bhup Kheri_a,38,2,on,Bhup Kheri_b,40,0,on,Bhup Kheri_c,33,6,on,158,190,coverage,330,330,210
+Bhup Kheri,Bhup Kheri_a,30,1,on,Bhup Kheri_b,34,0,on,Bhup Kheri_c,58,9,on,158,190,capacity,120,30,90
+Bihuni,Bihuni_a,31,9,on,Bihuni_b,29,2,on,Bihuni_c,39,5,on,98,72,coverage,240,90,270
+Bihuni,Bihuni_a,54,3,on,Bihuni_b,47,8,on,Bihuni_c,69,1,on,98,72,capacity,30,90,120
+Biraj Ghat,Biraj Ghat_a,47,1,on,Biraj Ghat_b,58,1,on,Biraj Ghat_c,28,3,on,37,234,coverage,330,60,240
+Biraj Ghat,Biraj Ghat_a,41,2,on,Biraj Ghat_b,25,3,on,Biraj Ghat_c,44,2,on,37,234,capacity,210,60,150
+Chajarsi,Chajarsi_a,29,3,on,Chajarsi_b,22,9,on,Chajarsi_c,46,3,on,238,108,coverage,150,0,180
+Chajarsi,Chajarsi_a,40,6,on,Chajarsi_b,49,1,on,Chajarsi_c,57,6,on,238,108,capacity,300,0,0
+Chamri,Chamri_a,52,8,on,Chamri_b,49,9,on,Chamri_c,30,6,on,7,102,coverage,270,210,30
+Chamri,Chamri_a,54,1,on,Chamri_b,21,2,on,Chamri_c,36,3,on,7,102,capacity,270,240,180
+Chander Nagar,Chander Nagar_a,28,6,on,Chander Nagar_b,21,8,on,Chander Nagar_c,22,6,on,183,127,coverage,270,30,210
+Chander Nagar,Chander Nagar_a,34,9,on,Chander Nagar_b,52,9,on,Chander Nagar_c,51,9,on,183,127,capacity,30,240,60
+Chaupla,Chaupla_a,26,9,on,Chaupla_b,58,0,on,Chaupla_c,31,2,on,165,180,coverage,300,270,30
+Chaupla,Chaupla_a,68,4,on,Chaupla_b,50,5,on,Chaupla_c,33,1,on,165,180,capacity,90,120,0
+Chhajupur,Chhajupur_a,34,6,on,Chhajupur_b,65,8,on,Chhajupur_c,30,7,on,20,215,coverage,210,60,90
+Chhajupur,Chhajupur_a,59,8,on,Chhajupur_b,26,7,on,Chhajupur_c,64,9,on,20,215,capacity,180,300,240
+Chhaprola,Chhaprola_a,32,2,on,Chhaprola_b,52,3,on,Chhaprola_c,46,8,on,57,160,coverage,0,210,60
+Chhaprola,Chhaprola_a,33,9,on,Chhaprola_b,46,4,on,Chhaprola_c,40,7,on,57,160,capacity,270,30,150
+Chhipyana,Chhipyana_a,37,2,on,Chhipyana_b,51,8,on,Chhipyana_c,54,8,on,218,73,coverage,180,30,150
+Chhipyana,Chhipyana_a,38,4,on,Chhipyana_b,40,3,on,Chhipyana_c,37,9,on,218,73,capacity,210,210,120
+Chikamberpur,Chikamberpur_a,46,5,on,Chikamberpur_b,52,6,on,Chikamberpur_c,67,9,on,92,6,coverage,270,240,60
+Chikamberpur,Chikamberpur_a,39,2,on,Chikamberpur_b,43,6,on,Chikamberpur_c,55,4,on,92,6,capacity,90,60,60
+Chrori,Chrori_a,52,5,on,Chrori_b,55,2,on,Chrori_c,21,5,on,162,80,coverage,210,330,90
+Chrori,Chrori_a,64,1,on,Chrori_b,53,4,on,Chrori_c,54,5,on,162,80,capacity,0,0,90
+Churiyala,Churiyala_a,42,1,on,Churiyala_b,23,1,on,Churiyala_c,47,7,on,237,218,coverage,90,60,90
+Churiyala,Churiyala_a,60,2,on,Churiyala_b,54,2,on,Churiyala_c,47,8,on,237,218,capacity,210,180,90
+Dadri,Dadri_a,62,9,on,Dadri_b,61,9,on,Dadri_c,63,9,on,156,204,coverage,180,240,240
+Dadri,Dadri_a,32,8,on,Dadri_b,56,4,on,Dadri_c,53,8,on,156,204,capacity,150,330,30
+Dahana,Dahana_a,26,0,on,Dahana_b,54,2,on,Dahana_c,60,0,on,35,153,coverage,330,270,150
+Dahana,Dahana_a,54,5,on,Dahana_b,45,0,on,Dahana_c,40,9,on,35,153,capacity,210,330,90
+Dasna,Dasna_a,25,2,on,Dasna_b,53,0,on,Dasna_c,39,9,on,57,101,coverage,30,240,60
+Dasna,Dasna_a,58,9,on,Dasna_b,39,6,on,Dasna_c,20,9,on,57,101,capacity,120,120,0
+Dasna Gate ed,Dasna Gate ed_a,44,5,on,Dasna Gate ed_b,55,4,on,Dasna Gate ed_c,32,2,on,175,101,coverage,90,0,210
+Dasna Gate ed,Dasna Gate ed_a,45,8,on,Dasna Gate ed_b,48,1,on,Dasna Gate ed_c,55,6,on,175,101,capacity,60,300,270
+Dasna R.s.,Dasna R.s._a,64,1,on,Dasna R.s._b,66,7,on,Dasna R.s._c,41,9,on,44,197,coverage,300,300,30
+Dasna R.s.,Dasna R.s._a,41,9,on,Dasna R.s._b,46,7,on,Dasna R.s._c,26,6,on,44,197,capacity,180,150,180
+Datiyana,Datiyana_a,28,1,on,Datiyana_b,30,8,on,Datiyana_c,67,4,on,147,84,coverage,90,300,30
+Datiyana,Datiyana_a,48,9,on,Datiyana_b,39,0,on,Datiyana_c,67,3,on,147,84,capacity,0,240,120
+Dehpa Azampur,Dehpa Azampur_a,67,9,on,Dehpa Azampur_b,64,5,on,Dehpa Azampur_c,55,2,on,53,152,coverage,60,240,240
+Dehpa Azampur,Dehpa Azampur_a,54,9,on,Dehpa Azampur_b,51,6,on,Dehpa Azampur_c,50,6,on,53,152,capacity,240,60,180
+Dehra Rampur,Dehra Rampur_a,42,5,on,Dehra Rampur_b,48,1,on,Dehra Rampur_c,25,8,on,206,9,coverage,60,210,30
+Dehra Rampur,Dehra Rampur_a,54,7,on,Dehra Rampur_b,59,3,on,Dehra Rampur_c,28,7,on,206,9,capacity,240,120,30
+Delhi Road,Delhi Road_a,38,3,on,Delhi Road_b,68,1,on,Delhi Road_c,35,3,on,165,32,coverage,300,120,240
+Delhi Road,Delhi Road_a,29,7,on,Delhi Road_b,65,2,on,Delhi Road_c,67,4,on,165,32,capacity,210,240,240
+Dhana,Dhana_a,63,0,on,Dhana_b,50,6,on,Dhana_c,56,8,on,42,66,coverage,0,180,210
+Dhana,Dhana_a,35,6,on,Dhana_b,35,7,on,Dhana_c,54,9,on,42,66,capacity,330,300,240
+Dhanaura,Dhanaura_a,51,9,on,Dhanaura_b,42,8,on,Dhanaura_c,54,9,on,205,105,coverage,300,0,240
+Dhanaura,Dhanaura_a,33,1,on,Dhanaura_b,60,7,on,Dhanaura_c,23,5,on,205,105,capacity,150,300,240
+Dhara,Dhara_a,59,7,on,Dhara_b,58,6,on,Dhara_c,67,1,on,172,43,coverage,210,240,60
+Dhara,Dhara_a,52,0,on,Dhara_b,55,3,on,Dhara_c,41,0,on,172,43,capacity,330,0,300
+Dhaulana,Dhaulana_a,44,1,on,Dhaulana_b,30,7,on,Dhaulana_c,24,1,on,175,198,coverage,150,300,30
+Dhaulana,Dhaulana_a,49,3,on,Dhaulana_b,56,8,on,Dhaulana_c,65,5,on,175,198,capacity,30,120,120
+Didoli,Didoli_a,41,8,on,Didoli_b,23,0,on,Didoli_c,38,9,on,232,92,coverage,330,270,30
+Didoli,Didoli_a,58,4,on,Didoli_b,57,0,on,Didoli_c,65,8,on,232,92,capacity,150,150,210
+Doohri,Doohri_a,47,4,on,Doohri_b,58,6,on,Doohri_c,27,7,on,229,101,coverage,180,300,240
+Doohri,Doohri_a,35,4,on,Doohri_b,65,2,on,Doohri_c,20,1,on,229,101,capacity,300,180,30
+Dosa Bangerpur,Dosa Bangerpur_a,27,4,on,Dosa Bangerpur_b,29,4,on,Dosa Bangerpur_c,58,8,on,136,139,coverage,150,180,150
+Dosa Bangerpur,Dosa Bangerpur_a,63,2,on,Dosa Bangerpur_b,20,8,on,Dosa Bangerpur_c,56,8,on,136,139,capacity,0,210,90
+Dotai,Dotai_a,50,3,on,Dotai_b,22,2,on,Dotai_c,38,1,on,226,125,coverage,120,0,120
+Dotai,Dotai_a,31,4,on,Dotai_b,61,2,on,Dotai_c,61,4,on,226,125,capacity,270,60,120
+Duhai,Duhai_a,24,2,on,Duhai_b,22,3,on,Duhai_c,35,6,on,131,67,coverage,330,120,240
+Duhai,Duhai_a,45,3,on,Duhai_b,43,8,on,Duhai_c,22,6,on,131,67,capacity,90,270,60
+Dundahara,Dundahara_a,33,8,on,Dundahara_b,35,9,on,Dundahara_c,42,6,on,197,185,coverage,210,180,150
+Dundahara,Dundahara_a,69,5,on,Dundahara_b,32,9,on,Dundahara_c,45,1,on,197,185,capacity,240,150,30
+Farid Nagar,Farid Nagar_a,53,5,on,Farid Nagar_b,40,1,on,Farid Nagar_c,64,6,on,71,53,coverage,0,180,150
+Farid Nagar,Farid Nagar_a,62,0,on,Farid Nagar_b,25,0,on,Farid Nagar_c,29,9,on,71,53,capacity,270,30,60
+Farrukh Nagar,Farrukh Nagar_a,48,8,on,Farrukh Nagar_b,52,8,on,Farrukh Nagar_c,51,8,on,192,180,coverage,60,330,120
+Farrukh Nagar,Farrukh Nagar_a,40,2,on,Farrukh Nagar_b,60,9,on,Farrukh Nagar_c,52,6,on,192,180,capacity,240,270,120
+Galand,Galand_a,41,7,on,Galand_b,37,5,on,Galand_c,32,6,on,54,199,coverage,120,330,210
+Galand,Galand_a,49,6,on,Galand_b,47,8,on,Galand_c,25,8,on,54,199,capacity,30,0,270
+Gandu Nagla,Gandu Nagla_a,61,3,on,Gandu Nagla_b,54,9,on,Gandu Nagla_c,20,1,on,215,117,coverage,330,90,180
+Gandu Nagla,Gandu Nagla_a,35,2,on,Gandu Nagla_b,39,2,on,Gandu Nagla_c,67,8,on,215,117,capacity,0,270,240
+Garh Town,Garh Town_a,60,9,on,Garh Town_b,34,7,on,Garh Town_c,44,5,on,112,152,coverage,270,0,0
+Garh Town,Garh Town_a,69,5,on,Garh Town_b,34,4,on,Garh Town_c,45,3,on,112,152,capacity,120,30,180
+Garhmukteswar,Garhmukteswar_a,23,3,on,Garhmukteswar_b,50,1,on,Garhmukteswar_c,57,8,on,196,118,coverage,240,0,210
+Garhmukteswar,Garhmukteswar_a,44,2,on,Garhmukteswar_b,23,6,on,Garhmukteswar_c,31,6,on,196,118,capacity,150,240,240
+Ghaziabad,Ghaziabad_a,22,6,on,Ghaziabad_b,62,9,on,Ghaziabad_c,28,9,on,104,185,coverage,30,240,210
+Ghaziabad,Ghaziabad_a,45,8,on,Ghaziabad_b,62,0,on,Ghaziabad_c,42,7,on,104,185,capacity,0,60,180
+Ghaziabad City,Ghaziabad City_a,56,3,on,Ghaziabad City_b,27,4,on,Ghaziabad City_c,68,6,on,156,183,coverage,60,150,180
+Ghaziabad City,Ghaziabad City_a,47,1,on,Ghaziabad City_b,24,2,on,Ghaziabad City_c,54,2,on,156,183,capacity,60,270,0
+Ghungrala,Ghungrala_a,68,7,on,Ghungrala_b,52,1,on,Ghungrala_c,63,8,on,177,87,coverage,60,270,60
+Ghungrala,Ghungrala_a,27,3,on,Ghungrala_b,37,8,on,Ghungrala_c,50,6,on,177,87,capacity,210,300,270
+Girdharpur Tmrel,Girdharpur Tmrel_a,66,5,on,Girdharpur Tmrel_b,69,5,on,Girdharpur Tmrel_c,41,9,on,96,226,coverage,240,0,300
+Girdharpur Tmrel,Girdharpur Tmrel_a,50,0,on,Girdharpur Tmrel_b,50,8,on,Girdharpur Tmrel_c,34,3,on,96,226,capacity,60,150,300
+Gohrs Alamgirpur,Gohrs Alamgirpur_a,44,7,on,Gohrs Alamgirpur_b,53,7,on,Gohrs Alamgirpur_c,36,5,on,116,65,coverage,0,240,240
+Gohrs Alamgirpur,Gohrs Alamgirpur_a,20,9,on,Gohrs Alamgirpur_b,50,1,on,Gohrs Alamgirpur_c,23,2,on,116,65,capacity,30,150,30
+Govindpuram,Govindpuram_a,45,3,on,Govindpuram_b,20,5,on,Govindpuram_c,44,3,on,157,202,coverage,60,300,90
+Govindpuram,Govindpuram_a,27,0,on,Govindpuram_b,42,5,on,Govindpuram_c,64,5,on,157,202,capacity,300,60,330
+Govindpuri,Govindpuri_a,53,5,on,Govindpuri_b,66,5,on,Govindpuri_c,63,3,on,175,25,coverage,300,0,240
+Govindpuri,Govindpuri_a,60,9,on,Govindpuri_b,24,5,on,Govindpuri_c,37,8,on,175,25,capacity,180,300,180
+Gyan Lok,Gyan Lok_a,63,4,on,Gyan Lok_b,41,7,on,Gyan Lok_c,21,3,on,169,197,coverage,120,60,300
+Gyan Lok,Gyan Lok_a,69,1,on,Gyan Lok_b,56,0,on,Gyan Lok_c,33,7,on,169,197,capacity,60,300,30
+Gyaspur,Gyaspur_a,50,1,on,Gyaspur_b,36,3,on,Gyaspur_c,32,9,on,93,142,coverage,210,150,240
+Gyaspur,Gyaspur_a,44,7,on,Gyaspur_b,68,5,on,Gyaspur_c,21,6,on,93,142,capacity,300,240,90
+Haidarpur,Haidarpur_a,42,9,on,Haidarpur_b,69,9,on,Haidarpur_c,50,8,on,68,31,coverage,300,210,270
+Haidarpur,Haidarpur_a,69,4,on,Haidarpur_b,44,8,on,Haidarpur_c,29,0,on,68,31,capacity,60,120,270
+Hapur,Hapur_a,20,4,on,Hapur_b,60,7,on,Hapur_c,54,4,on,62,81,coverage,270,300,240
+Hapur,Hapur_a,62,2,on,Hapur_b,34,8,on,Hapur_c,54,4,on,62,81,capacity,270,270,60
+Hapur Mandi,Hapur Mandi_a,66,7,on,Hapur Mandi_b,22,2,on,Hapur Mandi_c,35,8,on,172,151,coverage,90,300,330
+Hapur Mandi,Hapur Mandi_a,24,7,on,Hapur Mandi_b,65,2,on,Hapur Mandi_c,61,7,on,172,151,capacity,0,330,30
+Harmukhpuri,Harmukhpuri_a,63,0,on,Harmukhpuri_b,64,0,on,Harmukhpuri_c,31,4,on,156,27,coverage,210,330,30
+Harmukhpuri,Harmukhpuri_a,31,9,on,Harmukhpuri_b,23,3,on,Harmukhpuri_c,21,7,on,156,27,capacity,0,150,180
+Harsinghpur,Harsinghpur_a,63,9,on,Harsinghpur_b,46,5,on,Harsinghpur_c,53,5,on,123,216,coverage,210,90,210
+Harsinghpur,Harsinghpur_a,54,8,on,Harsinghpur_b,49,8,on,Harsinghpur_c,55,9,on,123,216,capacity,0,60,300
+Hasanpur Bhowapur,Hasanpur Bhowapur_a,54,8,on,Hasanpur Bhowapur_b,53,8,on,Hasanpur Bhowapur_c,66,0,on,219,128,coverage,300,0,210
+Hasanpur Bhowapur,Hasanpur Bhowapur_a,52,2,on,Hasanpur Bhowapur_b,29,5,on,Hasanpur Bhowapur_c,66,9,on,219,128,capacity,330,240,300
+Hassanpur,Hassanpur_a,52,0,on,Hassanpur_b,22,9,on,Hassanpur_c,27,3,on,60,104,coverage,330,90,300
+Hassanpur,Hassanpur_a,59,6,on,Hassanpur_b,67,0,on,Hassanpur_c,58,1,on,60,104,capacity,270,180,240
+Hindan Nagar,Hindan Nagar_a,52,7,on,Hindan Nagar_b,44,7,on,Hindan Nagar_c,34,8,on,160,23,coverage,180,60,210
+Hindan Nagar,Hindan Nagar_a,32,9,on,Hindan Nagar_b,45,5,on,Hindan Nagar_c,42,8,on,160,23,capacity,90,120,240
+Hindon Air field,Hindon Air field_a,37,6,on,Hindon Air field_b,46,2,on,Hindon Air field_c,27,9,on,202,35,coverage,240,240,330
+Hindon Air field,Hindon Air field_a,42,0,on,Hindon Air field_b,61,4,on,Hindon Air field_c,69,1,on,202,35,capacity,240,270,60
+Hosdarpur,Hosdarpur_a,68,4,on,Hosdarpur_b,62,2,on,Hosdarpur_c,46,0,on,224,121,coverage,90,60,120
+Hosdarpur,Hosdarpur_a,68,3,on,Hosdarpur_b,32,7,on,Hosdarpur_c,63,0,on,224,121,capacity,210,60,0
+I.E.hapur,I.E.hapur_a,67,4,on,I.E.hapur_b,32,2,on,I.E.hapur_c,54,1,on,95,106,coverage,300,300,330
+I.E.hapur,I.E.hapur_a,58,6,on,I.E.hapur_b,26,0,on,I.E.hapur_c,33,3,on,95,106,capacity,90,300,180
+I.E.sahibabad,I.E.sahibabad_a,49,6,on,I.E.sahibabad_b,61,0,on,I.E.sahibabad_c,36,5,on,66,9,coverage,180,270,120
+I.E.sahibabad,I.E.sahibabad_a,38,7,on,I.E.sahibabad_b,52,3,on,I.E.sahibabad_c,51,3,on,66,9,capacity,270,240,120
+Iklahdi,Iklahdi_a,37,6,on,Iklahdi_b,65,2,on,Iklahdi_c,68,5,on,199,53,coverage,150,300,0
+Iklahdi,Iklahdi_a,65,6,on,Iklahdi_b,51,2,on,Iklahdi_c,35,2,on,199,53,capacity,0,0,210
+Ingram Institute,Ingram Institute_a,44,5,on,Ingram Institute_b,38,8,on,Ingram Institute_c,49,4,on,122,84,coverage,270,270,180
+Ingram Institute,Ingram Institute_a,35,7,on,Ingram Institute_b,22,2,on,Ingram Institute_c,23,1,on,122,84,capacity,270,240,120
+Jakhera Rahmatpur,Jakhera Rahmatpur_a,28,9,on,Jakhera Rahmatpur_b,56,2,on,Jakhera Rahmatpur_c,65,8,on,197,19,coverage,120,150,150
+Jakhera Rahmatpur,Jakhera Rahmatpur_a,29,3,on,Jakhera Rahmatpur_b,42,5,on,Jakhera Rahmatpur_c,28,0,on,197,19,capacity,150,270,210
+Jalalabad,Jalalabad_a,41,8,on,Jalalabad_b,39,6,on,Jalalabad_c,24,6,on,192,147,coverage,120,30,300
+Jalalabad,Jalalabad_a,58,8,on,Jalalabad_b,52,9,on,Jalalabad_c,20,1,on,192,147,capacity,150,90,30
+Jalalpur Dhindar,Jalalpur Dhindar_a,51,9,on,Jalalpur Dhindar_b,46,8,on,Jalalpur Dhindar_c,67,8,on,148,51,coverage,60,270,240
+Jalalpur Dhindar,Jalalpur Dhindar_a,53,3,on,Jalalpur Dhindar_b,21,3,on,Jalalpur Dhindar_c,51,1,on,148,51,capacity,0,330,210
+Jaoli,Jaoli_a,45,2,on,Jaoli_b,41,1,on,Jaoli_c,25,2,on,60,112,coverage,30,270,180
+Jaoli,Jaoli_a,42,2,on,Jaoli_b,52,1,on,Jaoli_c,59,8,on,60,112,capacity,150,180,90
+Jharina,Jharina_a,67,3,on,Jharina_b,32,8,on,Jharina_c,35,9,on,25,187,coverage,150,270,150
+Jharina,Jharina_a,44,8,on,Jharina_b,68,3,on,Jharina_c,59,8,on,25,187,capacity,120,180,150
+Jindal Nagar,Jindal Nagar_a,57,8,on,Jindal Nagar_b,63,2,on,Jindal Nagar_c,27,1,on,227,126,coverage,330,120,0
+Jindal Nagar,Jindal Nagar_a,51,2,on,Jindal Nagar_b,53,5,on,Jindal Nagar_c,58,0,on,227,126,capacity,30,330,90
+Kaila,Kaila_a,62,9,on,Kaila_b,33,8,on,Kaila_c,53,9,on,222,57,coverage,0,120,150
+Kaila,Kaila_a,64,9,on,Kaila_b,38,9,on,Kaila_c,63,2,on,222,57,capacity,120,300,300
+Kakra,Kakra_a,44,1,on,Kakra_b,65,6,on,Kakra_c,61,0,on,37,224,coverage,270,150,0
+Kakra,Kakra_a,21,4,on,Kakra_b,55,0,on,Kakra_c,24,3,on,37,224,capacity,210,120,60
+Kalchina,Kalchina_a,41,8,on,Kalchina_b,32,1,on,Kalchina_c,55,7,on,145,225,coverage,270,150,300
+Kalchina,Kalchina_a,57,1,on,Kalchina_b,50,7,on,Kalchina_c,67,8,on,145,225,capacity,210,240,90
+Kamla Nehru nagar,Kamla Nehru nagar_a,28,4,on,Kamla Nehru nagar_b,32,3,on,Kamla Nehru nagar_c,40,2,on,43,155,coverage,90,0,60
+Kamla Nehru nagar,Kamla Nehru nagar_a,38,9,on,Kamla Nehru nagar_b,23,7,on,Kamla Nehru nagar_c,65,0,on,43,155,capacity,180,330,120
+Kanauja,Kanauja_a,68,7,on,Kanauja_b,36,9,on,Kanauja_c,27,2,on,233,93,coverage,300,90,240
+Kanauja,Kanauja_a,36,2,on,Kanauja_b,39,8,on,Kanauja_c,37,0,on,233,93,capacity,120,270,240
+Kandaula,Kandaula_a,35,5,on,Kandaula_b,45,7,on,Kandaula_c,36,7,on,230,176,coverage,180,120,120
+Kandaula,Kandaula_a,68,5,on,Kandaula_b,45,0,on,Kandaula_c,29,8,on,230,176,capacity,0,300,60
+Kanya Kalyanpur,Kanya Kalyanpur_a,26,1,on,Kanya Kalyanpur_b,54,2,on,Kanya Kalyanpur_c,49,2,on,209,106,coverage,210,60,180
+Kanya Kalyanpur,Kanya Kalyanpur_a,33,9,on,Kanya Kalyanpur_b,57,6,on,Kanya Kalyanpur_c,42,8,on,209,106,capacity,30,180,0
+Kastala,Kastala_a,25,1,on,Kastala_b,57,0,on,Kastala_c,35,6,on,227,29,coverage,180,0,270
+Kastala,Kastala_a,39,3,on,Kastala_b,29,4,on,Kastala_c,66,1,on,227,29,capacity,30,90,60
+Kathikhera,Kathikhera_a,53,3,on,Kathikhera_b,61,6,on,Kathikhera_c,21,9,on,130,27,coverage,180,60,240
+Kathikhera,Kathikhera_a,53,0,on,Kathikhera_b,22,6,on,Kathikhera_c,68,0,on,130,27,capacity,210,210,0
+Kaushambi,Kaushambi_a,44,2,on,Kaushambi_b,66,2,on,Kaushambi_c,26,9,on,12,11,coverage,150,270,120
+Kaushambi,Kaushambi_a,54,1,on,Kaushambi_b,60,5,on,Kaushambi_c,41,8,on,12,11,capacity,30,0,0
+Kavi Nagar,Kavi Nagar_a,51,1,on,Kavi Nagar_b,35,4,on,Kavi Nagar_c,41,1,on,191,47,coverage,120,270,300
+Kavi Nagar,Kavi Nagar_a,20,6,on,Kavi Nagar_b,62,1,on,Kavi Nagar_c,52,1,on,191,47,capacity,180,90,120
+Khanjarpur,Khanjarpur_a,68,5,on,Khanjarpur_b,55,1,on,Khanjarpur_c,49,3,on,126,192,coverage,240,90,150
+Khanjarpur,Khanjarpur_a,30,3,on,Khanjarpur_b,37,9,on,Khanjarpur_c,43,9,on,126,192,capacity,60,90,90
+Kharkhari,Kharkhari_a,64,3,on,Kharkhari_b,64,6,on,Kharkhari_c,21,9,on,197,229,coverage,0,0,330
+Kharkhari,Kharkhari_a,42,4,on,Kharkhari_b,62,1,on,Kharkhari_c,32,1,on,197,229,capacity,210,60,300
+Khera,Khera_a,30,8,on,Khera_b,69,4,on,Khera_c,65,6,on,38,221,coverage,90,30,0
+Khera,Khera_a,65,4,on,Khera_b,61,8,on,Khera_c,44,9,on,38,221,capacity,210,0,270
+Khiluai,Khiluai_a,41,6,on,Khiluai_b,50,1,on,Khiluai_c,62,2,on,209,30,coverage,240,330,180
+Khiluai,Khiluai_a,28,5,on,Khiluai_b,45,9,on,Khiluai_c,31,8,on,209,30,capacity,240,150,180
+Khimawati,Khimawati_a,60,4,on,Khimawati_b,56,8,on,Khimawati_c,58,5,on,91,47,coverage,210,120,0
+Khimawati,Khimawati_a,65,0,on,Khimawati_b,57,7,on,Khimawati_c,44,2,on,91,47,capacity,30,210,150
+Khindora,Khindora_a,30,1,on,Khindora_b,33,1,on,Khindora_c,20,7,on,40,205,coverage,210,330,0
+Khindora,Khindora_a,49,6,on,Khindora_b,20,5,on,Khindora_c,53,2,on,40,205,capacity,30,150,60
+Kishan Ganj,Kishan Ganj_a,65,5,on,Kishan Ganj_b,44,8,on,Kishan Ganj_c,54,0,on,208,236,coverage,210,120,120
+Kishan Ganj,Kishan Ganj_a,35,0,on,Kishan Ganj_b,22,6,on,Kishan Ganj_c,26,5,on,208,236,capacity,240,30,210
+Kumhera,Kumhera_a,25,4,on,Kumhera_b,29,2,on,Kumhera_c,24,1,on,159,89,coverage,60,240,330
+Kumhera,Kumhera_a,26,4,on,Kumhera_b,51,4,on,Kumhera_c,58,3,on,159,89,capacity,330,240,270
+Kushlia,Kushlia_a,59,8,on,Kushlia_b,67,4,on,Kushlia_c,51,8,on,220,238,coverage,30,30,60
+Kushlia,Kushlia_a,21,7,on,Kushlia_b,38,9,on,Kushlia_c,28,1,on,220,238,capacity,300,180,210
+Loni,Loni_a,30,2,on,Loni_b,35,2,on,Loni_c,49,7,on,209,61,coverage,270,300,120
+Loni,Loni_a,55,6,on,Loni_b,60,4,on,Loni_c,63,7,on,209,61,capacity,270,240,180
+Luhari,Luhari_a,31,6,on,Luhari_b,49,1,on,Luhari_c,33,7,on,231,174,coverage,0,300,240
+Luhari,Luhari_a,55,9,on,Luhari_b,32,6,on,Luhari_c,43,2,on,231,174,capacity,150,210,180
+Madarsa Sadat,Madarsa Sadat_a,49,6,on,Madarsa Sadat_b,34,0,on,Madarsa Sadat_c,38,2,on,52,139,coverage,330,120,210
+Madarsa Sadat,Madarsa Sadat_a,67,6,on,Madarsa Sadat_b,26,9,on,Madarsa Sadat_c,24,2,on,52,139,capacity,30,30,240
+Mahendrapuri,Mahendrapuri_a,59,3,on,Mahendrapuri_b,47,2,on,Mahendrapuri_c,57,6,on,106,29,coverage,240,90,0
+Mahendrapuri,Mahendrapuri_a,65,5,on,Mahendrapuri_b,28,5,on,Mahendrapuri_c,34,7,on,106,29,capacity,300,30,240
+Mahmoodpur,Mahmoodpur_a,43,5,on,Mahmoodpur_b,44,9,on,Mahmoodpur_c,31,8,on,129,135,coverage,300,180,120
+Mahmoodpur,Mahmoodpur_a,50,0,on,Mahmoodpur_b,62,6,on,Mahmoodpur_c,35,7,on,129,135,capacity,90,60,180
+Mahmoodpur Palwara,Mahmoodpur Palwara_a,33,8,on,Mahmoodpur Palwara_b,56,5,on,Mahmoodpur Palwara_c,52,0,on,49,51,coverage,240,330,120
+Mahmoodpur Palwara,Mahmoodpur Palwara_a,46,1,on,Mahmoodpur Palwara_b,42,6,on,Mahmoodpur Palwara_c,36,0,on,49,51,capacity,300,90,150
+Makanpur,Makanpur_a,68,9,on,Makanpur_b,28,8,on,Makanpur_c,67,7,on,24,43,coverage,30,330,120
+Makanpur,Makanpur_a,44,5,on,Makanpur_b,65,3,on,Makanpur_c,59,4,on,24,43,capacity,90,60,120
+Mandola,Mandola_a,53,4,on,Mandola_b,61,4,on,Mandola_c,53,5,on,96,122,coverage,270,240,30
+Mandola,Mandola_a,49,6,on,Mandola_b,30,0,on,Mandola_c,51,6,on,96,122,capacity,300,180,270
+Mathurawali,Mathurawali_a,26,1,on,Mathurawali_b,47,5,on,Mathurawali_c,66,1,on,13,20,coverage,210,30,270
+Mathurawali,Mathurawali_a,58,6,on,Mathurawali_b,66,1,on,Mathurawali_c,57,1,on,13,20,capacity,60,60,150
+Matnaurs,Matnaurs_a,64,6,on,Matnaurs_b,48,2,on,Matnaurs_c,44,3,on,97,185,coverage,60,240,150
+Matnaurs,Matnaurs_a,60,7,on,Matnaurs_b,44,1,on,Matnaurs_c,22,3,on,97,185,capacity,30,240,60
+Meerut Road,Meerut Road_a,69,2,on,Meerut Road_b,60,1,on,Meerut Road_c,54,7,on,52,32,coverage,270,330,210
+Meerut Road,Meerut Road_a,60,7,on,Meerut Road_b,63,0,on,Meerut Road_c,60,8,on,52,32,capacity,90,0,120
+Model Town,Model Town_a,31,6,on,Model Town_b,50,6,on,Model Town_c,25,0,on,110,56,coverage,60,150,30
+Model Town,Model Town_a,47,6,on,Model Town_b,65,6,on,Model Town_c,65,6,on,110,56,capacity,90,150,270
+Modi Nagar,Modi Nagar_a,25,4,on,Modi Nagar_b,65,6,on,Modi Nagar_c,64,7,on,189,15,coverage,300,60,330
+Modi Nagar,Modi Nagar_a,63,1,on,Modi Nagar_b,55,5,on,Modi Nagar_c,25,4,on,189,15,capacity,300,120,240
+Modipon,Modipon_a,37,9,on,Modipon_b,47,3,on,Modipon_c,69,2,on,191,91,coverage,60,90,60
+Modipon,Modipon_a,52,9,on,Modipon_b,40,7,on,Modipon_c,24,4,on,191,91,capacity,300,60,60
+Mohan Nagar,Mohan Nagar_a,26,1,on,Mohan Nagar_b,29,6,on,Mohan Nagar_c,53,3,on,66,238,coverage,120,90,120
+Mohan Nagar,Mohan Nagar_a,37,2,on,Mohan Nagar_b,27,9,on,Mohan Nagar_c,21,9,on,66,238,capacity,330,270,90
+Mohd. pur khudaliya,Mohd. pur khudaliya_a,47,1,on,Mohd. pur khudaliya_b,57,9,on,Mohd. pur khudaliya_c,38,2,on,159,96,coverage,210,300,120
+Mohd. pur khudaliya,Mohd. pur khudaliya_a,32,9,on,Mohd. pur khudaliya_b,56,5,on,Mohd. pur khudaliya_c,44,7,on,159,96,capacity,210,30,270
+Morta,Morta_a,28,5,on,Morta_b,30,4,on,Morta_c,65,1,on,93,6,coverage,210,30,30
+Morta,Morta_a,63,9,on,Morta_b,53,4,on,Morta_c,57,8,on,93,6,capacity,90,270,240
+Mubarikpur,Mubarikpur_a,21,4,on,Mubarikpur_b,61,3,on,Mubarikpur_c,27,9,on,185,111,coverage,210,210,30
+Mubarikpur,Mubarikpur_a,40,8,on,Mubarikpur_b,46,5,on,Mubarikpur_c,48,3,on,185,111,capacity,180,120,330
+Mukeempur,Mukeempur_a,57,2,on,Mukeempur_b,53,4,on,Mukeempur_c,43,1,on,85,48,coverage,120,330,120
+Mukeempur,Mukeempur_a,63,7,on,Mukeempur_b,35,8,on,Mukeempur_c,51,4,on,85,48,capacity,300,330,60
+Murad Nagar,Murad Nagar_a,47,0,on,Murad Nagar_b,62,8,on,Murad Nagar_c,25,2,on,90,14,coverage,60,0,270
+Murad Nagar,Murad Nagar_a,47,2,on,Murad Nagar_b,33,2,on,Murad Nagar_c,37,3,on,90,14,capacity,150,0,270
+Murad Nagar bazar,Murad Nagar bazar_a,26,0,on,Murad Nagar bazar_b,27,2,on,Murad Nagar bazar_c,34,6,on,234,155,coverage,0,300,210
+Murad Nagar bazar,Murad Nagar bazar_a,63,1,on,Murad Nagar bazar_b,34,9,on,Murad Nagar bazar_c,28,8,on,234,155,capacity,240,300,270
+Murad Nagar town,Murad Nagar town_a,46,2,on,Murad Nagar town_b,59,8,on,Murad Nagar town_c,45,3,on,237,60,coverage,30,120,180
+Murad Nagar town,Murad Nagar town_a,27,0,on,Murad Nagar town_b,63,7,on,Murad Nagar town_c,58,4,on,237,60,capacity,330,90,240
+Muradpur Janupura,Muradpur Janupura_a,60,0,on,Muradpur Janupura_b,50,5,on,Muradpur Janupura_c,47,9,on,239,38,coverage,240,90,90
+Muradpur Janupura,Muradpur Janupura_a,50,7,on,Muradpur Janupura_b,43,9,on,Muradpur Janupura_c,58,5,on,239,38,capacity,270,60,90
+Nagla Akhu,Nagla Akhu_a,62,7,on,Nagla Akhu_b,34,7,on,Nagla Akhu_c,58,0,on,108,126,coverage,0,300,330
+Nagla Akhu,Nagla Akhu_a,23,0,on,Nagla Akhu_b,41,6,on,Nagla Akhu_c,63,6,on,108,126,capacity,60,210,300
+Nagola,Nagola_a,39,3,on,Nagola_b,49,1,on,Nagola_c,25,2,on,99,214,coverage,240,60,240
+Nagola,Nagola_a,63,8,on,Nagola_b,30,0,on,Nagola_c,62,2,on,99,214,capacity,210,330,30
+Nahal,Nahal_a,48,0,on,Nahal_b,48,3,on,Nahal_c,62,5,on,58,109,coverage,240,60,120
+Nahal,Nahal_a,26,3,on,Nahal_b,21,1,on,Nahal_c,49,1,on,58,109,capacity,330,330,300
+Nali Husainpur,Nali Husainpur_a,22,4,on,Nali Husainpur_b,33,6,on,Nali Husainpur_c,53,1,on,238,230,coverage,270,150,0
+Nali Husainpur,Nali Husainpur_a,62,2,on,Nali Husainpur_b,53,8,on,Nali Husainpur_c,68,8,on,238,230,capacity,0,150,180
+Nan,Nan_a,64,4,on,Nan_b,59,3,on,Nan_c,42,3,on,111,11,coverage,240,240,150
+Nan,Nan_a,27,7,on,Nan_b,48,7,on,Nan_c,60,3,on,111,11,capacity,120,270,210
+Nanpur,Nanpur_a,63,3,on,Nanpur_b,43,8,on,Nanpur_c,49,2,on,144,224,coverage,0,300,150
+Nanpur,Nanpur_a,67,7,on,Nanpur_b,32,0,on,Nanpur_c,50,0,on,144,224,capacity,120,210,120
+Nasratpura,Nasratpura_a,25,7,on,Nasratpura_b,26,5,on,Nasratpura_c,60,4,on,33,237,coverage,30,300,330
+Nasratpura,Nasratpura_a,27,9,on,Nasratpura_b,65,9,on,Nasratpura_c,55,9,on,33,237,capacity,0,270,0
+Nehru Nagar,Nehru Nagar_a,68,6,on,Nehru Nagar_b,29,0,on,Nehru Nagar_c,20,4,on,234,144,coverage,300,120,120
+Nehru Nagar,Nehru Nagar_a,44,6,on,Nehru Nagar_b,31,3,on,Nehru Nagar_c,21,3,on,234,144,capacity,270,90,210
+Nek Nanpur nanai,Nek Nanpur nanai_a,65,5,on,Nek Nanpur nanai_b,29,2,on,Nek Nanpur nanai_c,42,4,on,143,19,coverage,30,0,300
+Nek Nanpur nanai,Nek Nanpur nanai_a,37,5,on,Nek Nanpur nanai_b,55,7,on,Nek Nanpur nanai_c,51,1,on,143,19,capacity,90,0,150
+Nekpur,Nekpur_a,25,3,on,Nekpur_b,52,7,on,Nekpur_c,55,6,on,130,118,coverage,270,240,330
+Nekpur,Nekpur_a,60,3,on,Nekpur_b,44,2,on,Nekpur_c,47,6,on,130,118,capacity,300,240,120
+New Market pilkhauwa,New Market pilkhauwa_a,22,2,on,New Market pilkhauwa_b,60,5,on,New Market pilkhauwa_c,58,0,on,217,227,coverage,240,330,150
+New Market pilkhauwa,New Market pilkhauwa_a,64,4,on,New Market pilkhauwa_b,30,3,on,New Market pilkhauwa_c,45,4,on,217,227,capacity,150,300,120
+New Raj nagar,New Raj nagar_a,58,1,on,New Raj nagar_b,38,4,on,New Raj nagar_c,44,4,on,32,215,coverage,210,270,150
+New Raj nagar,New Raj nagar_a,32,5,on,New Raj nagar_b,59,0,on,New Raj nagar_c,25,0,on,32,215,capacity,240,210,240
+Nistoli,Nistoli_a,45,1,on,Nistoli_b,57,2,on,Nistoli_c,40,4,on,191,62,coverage,30,90,210
+Nistoli,Nistoli_a,67,5,on,Nistoli_b,51,8,on,Nistoli_c,43,2,on,191,62,capacity,330,0,270
+Niwari,Niwari_a,49,4,on,Niwari_b,45,5,on,Niwari_c,47,0,on,165,73,coverage,60,150,60
+Niwari,Niwari_a,48,0,on,Niwari_b,37,9,on,Niwari_c,23,5,on,165,73,capacity,60,120,240
+Noorpur,Noorpur_a,40,8,on,Noorpur_b,69,8,on,Noorpur_c,29,3,on,153,180,coverage,180,240,240
+Noorpur,Noorpur_a,57,3,on,Noorpur_b,57,9,on,Noorpur_c,39,6,on,153,180,capacity,300,0,30
+Old Raj nagar,Old Raj nagar_a,51,3,on,Old Raj nagar_b,51,8,on,Old Raj nagar_c,54,3,on,204,187,coverage,210,60,90
+Old Raj nagar,Old Raj nagar_a,43,8,on,Old Raj nagar_b,20,5,on,Old Raj nagar_c,43,7,on,204,187,capacity,30,300,30
+Painga,Painga_a,22,6,on,Painga_b,41,4,on,Painga_c,21,1,on,92,9,coverage,210,210,270
+Painga,Painga_a,23,4,on,Painga_b,50,1,on,Painga_c,55,1,on,92,9,capacity,120,120,30
+Parpa,Parpa_a,28,7,on,Parpa_b,29,3,on,Parpa_c,50,4,on,115,112,coverage,210,150,0
+Parpa,Parpa_a,28,7,on,Parpa_b,48,3,on,Parpa_c,57,4,on,115,112,capacity,30,180,30
+Pasonda,Pasonda_a,57,4,on,Pasonda_b,50,4,on,Pasonda_c,50,9,on,86,195,coverage,240,210,210
+Pasonda,Pasonda_a,56,9,on,Pasonda_b,48,5,on,Pasonda_c,39,6,on,86,195,capacity,270,0,60
+Patla,Patla_a,57,0,on,Patla_b,59,6,on,Patla_c,35,1,on,164,72,coverage,240,210,270
+Patla,Patla_a,48,0,on,Patla_b,60,8,on,Patla_c,66,1,on,164,72,capacity,90,180,150
+Phagota,Phagota_a,62,5,on,Phagota_b,65,7,on,Phagota_c,49,1,on,60,69,coverage,30,150,240
+Phagota,Phagota_a,30,1,on,Phagota_b,49,3,on,Phagota_c,57,5,on,60,69,capacity,330,0,240
+Phuldehra,Phuldehra_a,32,8,on,Phuldehra_b,47,6,on,Phuldehra_c,29,0,on,122,169,coverage,0,120,150
+Phuldehra,Phuldehra_a,33,5,on,Phuldehra_b,52,6,on,Phuldehra_c,29,1,on,122,169,capacity,210,240,330
+Pilkhauwa Post office,Pilkhauwa Post office_a,21,3,on,Pilkhauwa Post office_b,34,6,on,Pilkhauwa Post office_c,66,0,on,115,34,coverage,180,330,120
+Pilkhauwa Post office,Pilkhauwa Post office_a,44,2,on,Pilkhauwa Post office_b,35,0,on,Pilkhauwa Post office_c,55,5,on,115,34,capacity,180,300,210
+Police Line harsaon,Police Line harsaon_a,66,9,on,Police Line harsaon_b,41,3,on,Police Line harsaon_c,48,2,on,169,117,coverage,0,180,150
+Police Line harsaon,Police Line harsaon_a,20,9,on,Police Line harsaon_b,28,8,on,Police Line harsaon_c,60,7,on,169,117,capacity,210,210,180
+Postal Staff college (i),Postal Staff college (i)_a,54,7,on,Postal Staff college (i)_b,69,6,on,Postal Staff college (i)_c,20,7,on,209,174,coverage,240,120,180
+Postal Staff college (i),Postal Staff college (i)_a,61,7,on,Postal Staff college (i)_b,62,9,on,Postal Staff college (i)_c,60,5,on,209,174,capacity,150,180,90
+Raghunathpur,Raghunathpur_a,28,4,on,Raghunathpur_b,47,3,on,Raghunathpur_c,45,1,on,128,23,coverage,240,180,60
+Raghunathpur,Raghunathpur_a,32,1,on,Raghunathpur_b,24,5,on,Raghunathpur_c,25,1,on,128,23,capacity,150,90,30
+Raispur,Raispur_a,68,5,on,Raispur_b,56,5,on,Raispur_c,64,5,on,72,211,coverage,330,180,90
+Raispur,Raispur_a,21,1,on,Raispur_b,33,9,on,Raispur_c,39,5,on,72,211,capacity,30,0,270
+Rajapur,Rajapur_a,28,5,on,Rajapur_b,52,4,on,Rajapur_c,68,0,on,114,202,coverage,300,120,330
+Rajapur,Rajapur_a,61,4,on,Rajapur_b,27,9,on,Rajapur_c,47,5,on,114,202,capacity,30,90,300
+Rajethi,Rajethi_a,26,8,on,Rajethi_b,67,2,on,Rajethi_c,62,2,on,175,9,coverage,300,180,300
+Rajethi,Rajethi_a,31,6,on,Rajethi_b,50,1,on,Rajethi_c,21,6,on,175,9,capacity,300,150,300
+Rampur Puth,Rampur Puth_a,24,7,on,Rampur Puth_b,62,7,on,Rampur Puth_c,50,9,on,164,105,coverage,240,90,150
+Rampur Puth,Rampur Puth_a,49,9,on,Rampur Puth_b,60,4,on,Rampur Puth_c,64,9,on,164,105,capacity,60,210,210
+Ramte Ram road,Ramte Ram road_a,34,3,on,Ramte Ram road_b,62,7,on,Ramte Ram road_c,43,0,on,36,186,coverage,270,240,300
+Ramte Ram road,Ramte Ram road_a,50,4,on,Ramte Ram road_b,39,4,on,Ramte Ram road_c,33,0,on,36,186,capacity,120,0,30
+Raoli Kalan,Raoli Kalan_a,44,5,on,Raoli Kalan_b,55,4,on,Raoli Kalan_c,59,6,on,105,147,coverage,60,60,90
+Raoli Kalan,Raoli Kalan_a,32,1,on,Raoli Kalan_b,47,5,on,Raoli Kalan_c,37,9,on,105,147,capacity,150,330,0
+Rasulpur,Rasulpur_a,37,7,on,Rasulpur_b,57,2,on,Rasulpur_c,29,9,on,158,239,coverage,330,240,240
+Rasulpur,Rasulpur_a,35,4,on,Rasulpur_b,41,6,on,Rasulpur_c,42,6,on,158,239,capacity,60,300,300
+Rewri Rewra,Rewri Rewra_a,59,5,on,Rewri Rewra_b,35,6,on,Rewri Rewra_c,62,6,on,114,29,coverage,300,330,150
+Rewri Rewra,Rewri Rewra_a,33,0,on,Rewri Rewra_b,38,3,on,Rewri Rewra_c,65,5,on,114,29,capacity,150,270,30
+Rly Road hapur,Rly Road hapur_a,45,6,on,Rly Road hapur_b,25,2,on,Rly Road hapur_c,48,1,on,180,105,coverage,90,270,30
+Rly Road hapur,Rly Road hapur_a,67,6,on,Rly Road hapur_b,20,5,on,Rly Road hapur_c,49,8,on,180,105,capacity,300,240,90
+Rori,Rori_a,47,0,on,Rori_b,22,7,on,Rori_c,53,7,on,57,87,coverage,180,240,180
+Rori,Rori_a,29,3,on,Rori_b,34,8,on,Rori_c,32,8,on,57,87,capacity,180,0,270
+Roza Yakubpur,Roza Yakubpur_a,31,4,on,Roza Yakubpur_b,66,2,on,Roza Yakubpur_c,40,0,on,193,203,coverage,240,0,90
+Roza Yakubpur,Roza Yakubpur_a,54,0,on,Roza Yakubpur_b,24,9,on,Roza Yakubpur_c,50,7,on,193,203,capacity,330,90,150
+Sadarpur,Sadarpur_a,24,6,on,Sadarpur_b,25,5,on,Sadarpur_c,25,9,on,74,200,coverage,270,300,30
+Sadarpur,Sadarpur_a,64,8,on,Sadarpur_b,26,2,on,Sadarpur_c,52,6,on,74,200,capacity,270,0,0
+Sadullapur,Sadullapur_a,47,4,on,Sadullapur_b,24,6,on,Sadullapur_c,69,1,on,13,24,coverage,0,270,0
+Sadullapur,Sadullapur_a,58,6,on,Sadullapur_b,58,8,on,Sadullapur_c,64,3,on,13,24,capacity,0,270,240
+Sahibabad,Sahibabad_a,56,3,on,Sahibabad_b,21,8,on,Sahibabad_c,54,1,on,72,76,coverage,330,180,90
+Sahibabad,Sahibabad_a,57,7,on,Sahibabad_b,36,6,on,Sahibabad_c,55,9,on,72,76,capacity,60,0,0
+Saidpur,Saidpur_a,44,0,on,Saidpur_b,43,0,on,Saidpur_c,36,9,on,119,6,coverage,90,150,30
+Saidpur,Saidpur_a,64,8,on,Saidpur_b,68,6,on,Saidpur_c,31,8,on,119,6,capacity,120,330,240
+Sakhpur,Sakhpur_a,35,4,on,Sakhpur_b,49,5,on,Sakhpur_c,66,4,on,59,210,coverage,90,30,60
+Sakhpur,Sakhpur_a,32,9,on,Sakhpur_b,34,3,on,Sakhpur_c,30,5,on,59,210,capacity,300,330,240
+Salarpur,Salarpur_a,64,7,on,Salarpur_b,65,4,on,Salarpur_c,48,3,on,234,130,coverage,60,90,120
+Salarpur,Salarpur_a,27,5,on,Salarpur_b,23,5,on,Salarpur_c,61,6,on,234,130,capacity,150,300,270
+Samaipur,Samaipur_a,31,5,on,Samaipur_b,42,1,on,Samaipur_c,35,3,on,163,7,coverage,330,300,120
+Samaipur,Samaipur_a,43,5,on,Samaipur_b,23,7,on,Samaipur_c,45,3,on,163,7,capacity,180,210,300
+Samana,Samana_a,54,1,on,Samana_b,46,5,on,Samana_c,68,6,on,111,135,coverage,300,330,180
+Samana,Samana_a,57,6,on,Samana_b,38,1,on,Samana_c,47,9,on,111,135,capacity,270,330,150
+Sapnawat,Sapnawat_a,28,0,on,Sapnawat_b,41,7,on,Sapnawat_c,66,8,on,82,105,coverage,120,300,240
+Sapnawat,Sapnawat_a,42,1,on,Sapnawat_b,26,2,on,Sapnawat_c,67,8,on,82,105,capacity,60,180,330
+Sara,Sara_a,43,2,on,Sara_b,62,0,on,Sara_c,37,1,on,152,98,coverage,120,210,330
+Sara,Sara_a,46,4,on,Sara_b,54,5,on,Sara_c,67,7,on,152,98,capacity,180,120,180
+Saunda,Saunda_a,54,6,on,Saunda_b,37,1,on,Saunda_c,61,5,on,147,83,coverage,90,90,270
+Saunda,Saunda_a,34,4,on,Saunda_b,52,8,on,Saunda_c,28,3,on,147,83,capacity,240,150,210
+Sec-27 Noida,Sec-27 Noida_a,27,5,on,Sec-27 Noida_b,43,7,on,Sec-27 Noida_c,55,9,on,170,151,coverage,150,240,90
+Sec-27 Noida,Sec-27 Noida_a,48,7,on,Sec-27 Noida_b,36,6,on,Sec-27 Noida_c,53,5,on,170,151,capacity,120,210,90
+Sec-41 Noida,Sec-41 Noida_a,52,5,on,Sec-41 Noida_b,54,5,on,Sec-41 Noida_c,68,3,on,33,164,coverage,180,210,270
+Sec-41 Noida,Sec-41 Noida_a,41,3,on,Sec-41 Noida_b,65,5,on,Sec-41 Noida_c,58,2,on,33,164,capacity,60,60,210
+Shah Mohiuddinpur,Shah Mohiuddinpur_a,55,3,on,Shah Mohiuddinpur_b,47,1,on,Shah Mohiuddinpur_c,49,0,on,173,188,coverage,120,330,0
+Shah Mohiuddinpur,Shah Mohiuddinpur_a,20,4,on,Shah Mohiuddinpur_b,49,1,on,Shah Mohiuddinpur_c,65,0,on,173,188,capacity,180,240,300
+Shahjahanpur,Shahjahanpur_a,54,7,on,Shahjahanpur_b,37,5,on,Shahjahanpur_c,26,5,on,81,40,coverage,120,30,330
+Shahjahanpur,Shahjahanpur_a,38,2,on,Shahjahanpur_b,68,0,on,Shahjahanpur_c,28,8,on,81,40,capacity,0,90,60
+Shahpur,Shahpur_a,65,8,on,Shahpur_b,31,9,on,Shahpur_c,38,0,on,22,137,coverage,0,180,270
+Shahpur,Shahpur_a,26,7,on,Shahpur_b,64,7,on,Shahpur_c,26,0,on,22,137,capacity,300,240,300
+Shahpur Bamheta,Shahpur Bamheta_a,57,3,on,Shahpur Bamheta_b,30,6,on,Shahpur Bamheta_c,54,5,on,5,87,coverage,240,90,300
+Shahpur Bamheta,Shahpur Bamheta_a,47,7,on,Shahpur Bamheta_b,46,8,on,Shahpur Bamheta_c,30,3,on,5,87,capacity,270,330,330
+Shalimar Bagh,Shalimar Bagh_a,55,4,on,Shalimar Bagh_b,38,3,on,Shalimar Bagh_c,21,3,on,207,194,coverage,0,30,180
+Shalimar Bagh,Shalimar Bagh_a,55,8,on,Shalimar Bagh_b,39,1,on,Shalimar Bagh_c,49,9,on,207,194,capacity,330,300,90
+Sharpur,Sharpur_a,45,0,on,Sharpur_b,36,3,on,Sharpur_c,62,9,on,230,64,coverage,270,270,270
+Sharpur,Sharpur_a,52,2,on,Sharpur_b,63,8,on,Sharpur_c,37,6,on,230,64,capacity,30,30,60
+Shyampur Jatt,Shyampur Jatt_a,25,8,on,Shyampur Jatt_b,28,6,on,Shyampur Jatt_c,48,7,on,236,80,coverage,330,120,300
+Shyampur Jatt,Shyampur Jatt_a,56,5,on,Shyampur Jatt_b,23,9,on,Shyampur Jatt_c,43,1,on,236,80,capacity,120,60,240
+Sikandarpur Kakori,Sikandarpur Kakori_a,49,6,on,Sikandarpur Kakori_b,40,6,on,Sikandarpur Kakori_c,47,1,on,7,45,coverage,0,30,60
+Sikandarpur Kakori,Sikandarpur Kakori_a,31,2,on,Sikandarpur Kakori_b,66,6,on,Sikandarpur Kakori_c,21,7,on,7,45,capacity,30,180,300
+Sikhera,Sikhera_a,42,9,on,Sikhera_b,23,6,on,Sikhera_c,26,1,on,143,99,coverage,240,210,60
+Sikhera,Sikhera_a,20,1,on,Sikhera_b,44,0,on,Sikhera_c,69,3,on,143,99,capacity,210,120,330
+Sikri Kalan,Sikri Kalan_a,35,8,on,Sikri Kalan_b,52,2,on,Sikri Kalan_c,20,9,on,232,96,coverage,0,30,60
+Sikri Kalan,Sikri Kalan_a,59,0,on,Sikri Kalan_b,65,8,on,Sikri Kalan_c,46,1,on,232,96,capacity,180,60,0
+Sikri Khurd,Sikri Khurd_a,58,5,on,Sikri Khurd_b,27,0,on,Sikri Khurd_c,68,6,on,188,119,coverage,0,180,270
+Sikri Khurd,Sikri Khurd_a,67,4,on,Sikri Khurd_b,24,3,on,Sikri Khurd_c,68,8,on,188,119,capacity,60,150,150
+Simbhaoli,Simbhaoli_a,57,9,on,Simbhaoli_b,26,5,on,Simbhaoli_c,43,1,on,61,129,coverage,180,90,0
+Simbhaoli,Simbhaoli_a,50,1,on,Simbhaoli_b,45,3,on,Simbhaoli_c,22,2,on,61,129,capacity,180,210,210
+Solana,Solana_a,53,6,on,Solana_b,57,0,on,Solana_c,58,6,on,199,103,coverage,210,180,240
+Solana,Solana_a,52,1,on,Solana_b,44,3,on,Solana_c,45,1,on,199,103,capacity,120,300,0
+Sultanpur,Sultanpur_a,64,0,on,Sultanpur_b,21,6,on,Sultanpur_c,29,8,on,104,51,coverage,240,120,90
+Sultanpur,Sultanpur_a,65,1,on,Sultanpur_b,23,8,on,Sultanpur_c,57,4,on,104,51,capacity,30,300,330
+Surana,Surana_a,38,0,on,Surana_b,37,2,on,Surana_c,25,2,on,238,41,coverage,60,120,90
+Surana,Surana_a,22,8,on,Surana_b,42,2,on,Surana_c,37,7,on,238,41,capacity,240,30,90
+Surya Nagar,Surya Nagar_a,62,8,on,Surya Nagar_b,40,0,on,Surya Nagar_c,64,3,on,65,224,coverage,90,300,150
+Surya Nagar,Surya Nagar_a,63,3,on,Surya Nagar_b,25,3,on,Surya Nagar_c,28,5,on,65,224,capacity,90,180,300
+Talhata,Talhata_a,25,5,on,Talhata_b,50,7,on,Talhata_c,64,3,on,180,155,coverage,210,330,270
+Talhata,Talhata_a,57,6,on,Talhata_b,61,2,on,Talhata_c,53,7,on,180,155,capacity,210,330,90
+Tatarpur,Tatarpur_a,50,9,on,Tatarpur_b,34,2,on,Tatarpur_c,51,6,on,21,91,coverage,150,330,90
+Tatarpur,Tatarpur_a,62,7,on,Tatarpur_b,35,7,on,Tatarpur_c,45,5,on,21,91,capacity,240,270,180
+Teela Sahbazpur,Teela Sahbazpur_a,67,7,on,Teela Sahbazpur_b,54,7,on,Teela Sahbazpur_c,69,9,on,110,50,coverage,330,300,150
+Teela Sahbazpur,Teela Sahbazpur_a,67,2,on,Teela Sahbazpur_b,58,5,on,Teela Sahbazpur_c,65,4,on,110,50,capacity,210,180,0
+Tibra,Tibra_a,67,9,on,Tibra_b,44,5,on,Tibra_c,47,9,on,55,98,coverage,0,270,90
+Tibra,Tibra_a,27,5,on,Tibra_b,28,9,on,Tibra_c,34,7,on,55,98,capacity,210,120,90
+Tyori,Tyori_a,66,5,on,Tyori_b,52,9,on,Tyori_c,33,9,on,25,207,coverage,120,150,90
+Tyori,Tyori_a,28,6,on,Tyori_b,26,0,on,Tyori_c,69,0,on,25,207,capacity,150,300,210
+Udai Rampur nagla,Udai Rampur nagla_a,39,6,on,Udai Rampur nagla_b,65,6,on,Udai Rampur nagla_c,68,1,on,195,28,coverage,330,300,120
+Udai Rampur nagla,Udai Rampur nagla_a,34,4,on,Udai Rampur nagla_b,62,2,on,Udai Rampur nagla_c,69,5,on,195,28,capacity,240,90,30
+Upera,Upera_a,44,0,on,Upera_b,22,5,on,Upera_c,26,7,on,164,237,coverage,240,0,150
+Upera,Upera_a,56,7,on,Upera_b,46,2,on,Upera_c,38,6,on,164,237,capacity,90,300,0
+Vasundhra,Vasundhra_a,29,5,on,Vasundhra_b,46,2,on,Vasundhra_c,20,7,on,166,27,coverage,150,240,120
+Vasundhra,Vasundhra_a,39,9,on,Vasundhra_b,69,6,on,Vasundhra_c,25,2,on,166,27,capacity,210,240,210
+Vijai Nagar,Vijai Nagar_a,68,4,on,Vijai Nagar_b,40,2,on,Vijai Nagar_c,57,6,on,207,150,coverage,330,210,330
+Vijai Nagar,Vijai Nagar_a,44,7,on,Vijai Nagar_b,69,6,on,Vijai Nagar_c,35,6,on,207,150,capacity,90,30,60
